@@ -1,6 +1,6 @@
 # sigma_tenant
 
-A new Flutter application to get track of your daily expenses. Enable you to track down to your Weekly Expenditures.
+A new Flutter application.
 
 
 ## Screenshots

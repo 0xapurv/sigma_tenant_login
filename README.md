@@ -6,10 +6,10 @@ A new Flutter application to get track of your daily expenses. Enable you to tra
 ## Screenshots
 
 ### Login Page
-<img src="Initial State.png" height="500em" />
+<img src="login.png" height="500em" />
 
 ### Home Page
-<img src="Add Expenses.png" height="500em" />
+<img src="homepage.png" height="500em" />
 
 ### Drawer
-<img src="Pick a date.png" height="500em" />
+<img src="drawer.png" height="500em" />
